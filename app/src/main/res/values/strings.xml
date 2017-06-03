@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Money</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_input_transaction">InputTransaction</string>
+    
+    <string-array name="catagorieOptions">
+        <item>Food</item>
+        <item>Beer</item>
+        <item>NANS Rebulding Fund</item>
+    </string-array>
+</resources>
